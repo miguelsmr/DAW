@@ -8,3 +8,8 @@ Alumno: Miguel Luzón Prado
 
 - Practica1.3: despliegue con Gunicorn y UvicornWorker
 - Practica1.4: contenedor Docker
+
+## UD02
+
+- Practica2.1: módulos de Apache
+- Practica2.2: host virtual taskflow.local
