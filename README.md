@@ -13,3 +13,4 @@ Alumno: Miguel Luzón Prado
 
 - Practica2.1: módulos de Apache
 - Practica2.2: host virtual taskflow.local
+- Practica2.3: autenticación básica de admin
